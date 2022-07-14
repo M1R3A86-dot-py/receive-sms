@@ -10,3 +10,6 @@ After running the Python file, it receives the number from the number.txt file a
 
 Installation Method:
 Open your terminal environment and download the tool using git
+
+
+Updating...
